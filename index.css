@@ -8,3 +8,25 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+a:link, a:visited {
+  color: #9CC3D5FF;
+}
+
+.app {
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 100px;
+  margin-bottom: 0px;
+}
+
+.current p {
+  font-size: 30px; 
+  margin: 10px;
+}
+
+.past p {
+  font-size: 20px;
+}
