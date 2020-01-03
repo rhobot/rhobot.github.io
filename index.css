@@ -1,6 +1,6 @@
 body {
-  background-color: #0063B2FF;
-  color: #9CC3D5FF;
+  background-color: #f7f7f7;
+  color: #28292d;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -13,7 +13,7 @@ body {
 }
 
 a:link, a:visited {
-  color: #9CC3D5FF;
+  color: #28292d;
 }
 
 .app {
