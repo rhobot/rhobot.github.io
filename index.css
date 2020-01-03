@@ -48,11 +48,3 @@ a:link, a:visited {
   color: #28292d;
 }
 
-.current p {
-  font-size: 30px; 
-  margin: 10px;
-}
-
-.past p {
-  font-size: 20px;
-}
