@@ -20,7 +20,7 @@ body {
   height: 100%;
 }
 
-body > section {
+.flex--one {
   flex: 1;
 }
 
