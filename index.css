@@ -56,3 +56,9 @@ a:link, a:visited {
   color: #28292d;
 }
 
+ul {
+  list-style-type: none;
+  display: inline;
+}
+
+
